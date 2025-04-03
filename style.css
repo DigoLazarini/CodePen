@@ -1,0 +1,40 @@
+.logo1 {
+            display: block;
+            margin: 20px auto;
+        }
+
+        .container {
+            display: flex;
+            justify-content: space-around;
+            margin: 20px;
+        }
+
+        .conversor {
+            text-align: center;
+            border: 3px solid #ccc;
+            border-radius: 10px;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.8);
+            width: 300px;
+        }
+
+        .conversor img {
+            width: 67%;
+            height: auto;
+        }
+
+        .resultado {
+            margin-top: 15px;
+            padding: 10px;
+            border: 1px solid #4CAF50;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+            color: #4CAF50;
+            font-weight: bold;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 14px;
+        }
